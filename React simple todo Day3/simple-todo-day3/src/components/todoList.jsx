@@ -4,9 +4,7 @@ const TodoList = () => {
   const[list,setList]=React.useState([])
 
 
-  const addTodo = () =>{
-
-  }
+  
   return (
     <div><Todo /></div>
   )
